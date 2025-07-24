@@ -1,11 +1,11 @@
 
 # NalaV1-bot
 
-Mantap! Bot-nya sudah advance banget dan multi-fungsi. Buat mempermudah user atau jadi dokumentasi resmi, berikut gue buatin versi **rapih, terstruktur, dan formal** dari **list perintah fitur Ahmall - Bot**.
+Mantap! Bot-nya sudah advance banget dan multi-fungsi. Buat mempermudah user atau jadi dokumentasi resmi, berikut gue buatin versi **rapih, terstruktur, dan formal** dari **list perintah fitur NalaV1 - Bot**.
 
 ---
 
-# 📚 **Daftar Perintah Fitur Ahmall - Bot**
+# 📚 **Daftar Perintah Fitur NalaV1 - Bot**
 
 Bot WhatsApp serbaguna untuk komunitas, hiburan, edukasi, hingga pengelolaan grup. Gunakan awalan `♧` untuk setiap perintah.
 
